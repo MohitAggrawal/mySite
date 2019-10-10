@@ -11,3 +11,5 @@
 5. Open your github repo and click on ```Compare & pull request```
 6. Name your pull request with concise *Title* and *Description*
 7. Finally click on create pull request and wait for it to merge :)
+
+# Enjoy
